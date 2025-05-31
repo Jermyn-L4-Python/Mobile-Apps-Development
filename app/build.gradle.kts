@@ -4,11 +4,9 @@ plugins {
 }
 
 android {
-    namespace = "com.example.minispotify"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.minispotify"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
